@@ -6,8 +6,7 @@
 - Creating efficient and **innovative tech solutions**.
 
 ## 🌱 Currently, I'm learning:
-- Deepening my knowledge in **Full Stack Web Development** (HTML, CSS, JavaScript, React).
-- Exploring **AI** and **ChatGPT** to integrate smart solutions in future projects.
+- Deepening my knowledge in **Full Stack development
 
 ## 💞️ I’m open to collaborating on:
 - **Open-source projects** that aim to solve real-world problems.
