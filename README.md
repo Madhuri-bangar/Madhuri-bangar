@@ -17,7 +17,6 @@
 - Email: [madhuribangar2002@gmail.com](mailto:madhuribangar2002@gmail.com)
 - LinkedIn: [Madhuri Bangar](https://www.linkedin.com/in/madhuribangar)
 
-## 😄 Pronouns: She/Her
 
 ## ⚡ Fun fact:
 - I'm always eager to learn new technologies and apply them to create meaningful, real-world applications.
