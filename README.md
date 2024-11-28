@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Madhuri Bangar!
 
 ## 👀 I'm passionate about:
-- **Software Engineering** with a focus on **Java**, **Python**, and **Web Development**.
+- **Software Engineering** with a focus on **Full stack development**.
 - Building impactful **software solutions** and **solving real-world problems**.
 - Creating efficient and **innovative tech solutions**.
 
