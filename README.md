@@ -1,3 +1,6 @@
+
+![Madhuri Bangar](Madhuri_Bangar.png)
+
 # 👋 Hello, I'm Madhuri Bangar!
 
 ## 👀 I'm passionate about:
