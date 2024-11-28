@@ -1,7 +1,7 @@
 
-![Madhuri Bangar](Madhuri_Bangar.png)
 
 # 👋 Hello, I'm Madhuri Bangar!
+![Madhuri Bangar](Madhuri_Bangar.png)
 
 ## 👀 I'm passionate about:
 - **Software Engineering** with a focus on **Full stack development**.
